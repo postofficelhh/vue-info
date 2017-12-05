@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+* {
+    list-style: none;
+    text-decoration: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.tmpl {
+    margin-bottom: 55px;
+}
+
+.news-content img {
+    width: 100%
+}
